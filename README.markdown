@@ -2,7 +2,7 @@
 
 By [Christopher Boone][Hypsometry].
 
-Based on Frederic Goudy's [_The Alphabet and Elements of Lettering_][Alphabet].
+Based on the front piece in Frederic Goudy's [_The Alphabet and Elements of Lettering_][Alphabet].
 
 
 [Hypsometry]: http://hypsometry.com/ "Go to hypsometry.com."
