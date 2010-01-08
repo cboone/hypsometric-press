@@ -1,0 +1,13 @@
+body {
+	color: #000;
+  background: #fff;
+  
+	font-size: 100%; /* 16px */
+	line-height: 1; /* 16px */
+  font-family: "Sorts Mill Goudy", "Goudy Bookletter 1911", "GoudyBookletter1911", "Goudy Old Style", "Cambria", "Georgia", serif;
+}
+
+#everything {
+  font-size: 0.625em; /* 10px */
+  line-height: 1; /* 10px */
+}

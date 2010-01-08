@@ -1,0 +1,121 @@
+/*
+
+Reset everything and set up HTML5 elements.
+By Christopher Boone: http://hypsometry.com/
+
+The latest version is available at:
+  http://github.com/cboone/hypsometric-css/blob/master/reset/reset.css
+
+Based on:
+  Eric Meyer's reset.css (version 1.0 | 20080212): http://meyerweb.com/eric/tools/css/reset
+  Yahoo's YUI CSS Reset (version 3.0, build 1549): http://developer.yahoo.com/yui/3/cssreset/
+  The examples in the latest HTML5 spec (November 13 2009): http://www.whatwg.org/specs/web-apps/current-work/multipage/rendering.html#the-css-user-agent-style-sheet-and-presentational-hints
+
+Notes:
+  Only HTML5 elements are dealt with here. Deprecated elements are not affected.
+  I've added the details element to the list of those declared to be block level, since I think it must be, per the description.
+  Probably not all the CSS declared here is actually supported by browsers.
+
+*/
+
+*[hidden], command, datalist, input[type=hidden], menu[type=context], rp, source {
+  display: none;
+}
+
+article, aside, details, figure, footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+ruby {
+  display: ruby;
+}
+
+rt {
+  display: ruby-text;
+}
+
+a, abbr, address, article, aside, audio, blockquote, body, canvas, caption, cite, code, command,
+datalist, del, details, dfn, div, dl, dt, dd, em, eventsource, fieldset, figure, footer, form,
+h1, h2, h3, h4, h5, h6, header, hgroup, html, iframe, img, ins, kbd, keygen, label, legend, li,
+mark, menu, meter, nav, ol, output, p, pre, progress, span, object, q, ruby, rp, rt, 
+samp, small, section, source, strong, sub, sup, table, tbody, tfoot, thead, time, tr, th, td, ul,
+var, video {
+	margin: 0;
+	padding: 0;
+	
+	background: transparent;
+	border: 0;
+	outline: 0;
+	
+	font-size: 100%;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-decoration: none;
+	vertical-align: baseline;
+}
+
+a {
+  color: inherit;
+  
+  text-decoration: none;
+}
+
+address, caption, cite, code, dfn, em, h1, h2, h3, h4, h5, h6, strong, th, var {
+  font-size: 1em;
+	font-style: normal;
+	font-weight: normal;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: "";
+	content: none;
+}
+
+body {
+	line-height: 1;
+}
+
+caption, th {
+	text-align: left;
+}
+
+code, kbd, samp {
+  font-family: inherit;
+}
+
+del {
+	text-decoration: line-through;
+}
+
+input, textarea, select {
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: inherit;
+}
+
+ins {
+	text-decoration: none;
+}
+
+menu, ol, ul {
+	list-style: none;
+}
+
+sup {
+	vertical-align: text-top;
+}
+
+sub {
+	vertical-align: text-bottom;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
