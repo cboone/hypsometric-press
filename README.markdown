@@ -1,8 +1,8 @@
-# Hpm Press - Roman Capitals. #
+# Hpm Press -- Roman Capitals. #
 
 By [Christopher Boone][Hypsometry].
 
-- [CIL XIV 2104][Github CIL XIV 2104]. Inscription from base of statue in a Roman palace - Based on the front piece in Frederic Goudy's [_The Alphabet and Elements of Lettering_][Alphabet].
+- [CIL XIV 2104][Github CIL XIV 2104]. Inscription from base of statue in a Roman palace, based on the front piece in Frederic Goudy's [_The Alphabet and Elements of Lettering_][Alphabet].
 
 
 [Hypsometry]: http://hypsometry.com/ "Go to hypsometry.com."
