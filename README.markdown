@@ -1,4 +1,4 @@
-# Hpm Press.
+# Hypsometry Press.
 
 By [Christopher Boone][Hypsometry].
 
