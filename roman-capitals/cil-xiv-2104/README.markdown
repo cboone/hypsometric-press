@@ -63,7 +63,7 @@ In his reproduction, Mr Goudy made use of his own [Goudy Old Style][], which was
 
 In my reproduction of Mr Goudy's reproduction, I am primarily using [Sorts Mill Goudy][], by [Barry Schwartz][], which is itself a revival of Goudy Old Style. Generally very accurate and faithful to the original, Sorts Mill Goudy is missing one crucial character: the angular interpunct. Instead, Mr Schwartz has included a middle dot that is of the style of current typefaces.
 
-Thus, I have also made use of a second typeface -- [Dieter Steffmann's][Dieter Steffmann] [Goudy Twenty][] -- which is generally not in the same spirit, but includes a perfect copy of Goudy's interpunct.
+Thus, I have also made use of a second typeface: [Goudy Twenty][], a revival by [Dieter Steffmann][] which is generally not in the spirit of Goudy Old Style and Sorts Mill Goudy, but includes a perfect copy of Goudy's interpunct.
 
 
 ## Questions.
@@ -76,6 +76,11 @@ The leading of the inscription is questionable. Other comparable Roman inscripti
 ### About the meaning.
 
 If Aurelio Aphrodisius was a _procurator a rationibus_ under Augustus, how could he have been both a freedman and an eques?
+
+
+## The project.
+
+This is part of the Hypsometric Press series of investigations into the history of type. It is the work of [Christopher Boone][], and all of its components are copyrighted by Christopher Boone, unless otherwise noted.
 
 
 [Alphabet]: http://books.google.com/books?id=yVlQAAAAMAAJ "Read about *The Alphabet and the Elements of Lettering* on Google Books."
@@ -95,3 +100,4 @@ If Aurelio Aphrodisius was a _procurator a rationibus_ under Augustus, how could
 [ZPE]: http://www.jstor.org/pss/20191769 "Go to the JSTOR page for this reference."
 [Goudy Twenty]: http://www.fontsquirrel.com/fonts/GoudyTwenty "Go to the Goudy Twenty page on the Font Squirrel."
 [Dieter Steffmann]: http://www.steffmann.de/ "Go to steffmann.de, the main website of Dieter Steffmann."
+[Christopher Boone]: http://hypsometry.com/ "Read more about Christopher Boone's work on hypsometry.com."
