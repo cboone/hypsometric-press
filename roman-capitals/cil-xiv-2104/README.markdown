@@ -1,7 +1,8 @@
 # CIL XIV 2104. <br /> _Roman Capitals, on [the Hypsometric Press.][Hpm Press]_
 
+## The inscription.
 
-## The inscription, as it appears.
+### As it appears.
 
 <pre>
 AVRELIO
@@ -24,7 +25,7 @@ SET IN ‘GOUDY OLD STYLE’ CAPITALS
 </pre>
 
 
-## The inscription, as it was intended to be read.
+### As it was intended to be read.
 
 <pre>
 Aurelio
@@ -40,7 +41,7 @@ Maec. Laeviano aed.
 As presented by [Hermann Dessau][Dessau], in [_Inscriptiones Latinae Selectae_, volume 1, page 325, inscription 1475][ILS 1475].
 
 
-## About the inscription.
+## Background information.
 
 This inscription is identified as CIL XIV 2104 = D 1475.
 
@@ -49,6 +50,18 @@ In other words, [Corpus Inscriptionum Latinarum][], volume XIV -- Inscriptiones 
 Christopher Bruun discusses it briefly in footnote 62 of his paper [Some Comments on the Status of Imperial Freedman][Bruun].
 
 Discussion of it also appears in [The Classical Review][], [Zeutschrift für Papyrologie und Epigraphik][ZPE] (in addition to the Bruun paper already mentioned), and in [_Imperium Romanum Triburim Descriptum._][IRTD]
+
+
+## Questions.
+
+### About Goudy's reproduction.
+
+The leading of the inscription is questionable. Other comparable Roman inscriptions tend to be set solid.
+
+
+### About the meaning.
+
+If Aurelio Aphrodisius was a procurator a rationibus under Augustus, how could he have been both a freedman and an eques?
 
 
 [ILS 1475]: http://books.google.com/books?id=EWBfAAAAMAAJ&printsec=frontcover#v=onepage&q=1475&f=false "Go to the ILS 1475 entry on Google Books."
