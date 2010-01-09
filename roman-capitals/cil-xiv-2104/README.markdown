@@ -1,4 +1,4 @@
-# CIL XIV 2104. <br /> _Roman Capitals, on [the Hypsometric Press.][Hpm Press]_
+# CIL XIV 2104. <br /> _A Roman Capital, from [the Hypsometric Press.][Hpm Press]_
 
 ## The inscription.
 
@@ -63,7 +63,7 @@ In his reproduction, Mr Goudy made use of his own [Goudy Old Style][], which was
 
 In my reproduction of Mr Goudy's reproduction, I am primarily using [Sorts Mill Goudy][], by [Barry Schwartz][], which is itself a revival of Goudy Old Style. Generally very accurate and faithful to the original, Sorts Mill Goudy is missing one crucial character: the angular interpunct. Instead, Mr Schwartz has included a middle dot that is of the style of current typefaces.
 
-Thus, I have also made use of a second typeface -- [Dieter Steffmann's][Dieter Steffman] [Goudy Twenty][] -- which is generally not in the same spirit, but includes a perfect copy of Goudy's interpunct.
+Thus, I have also made use of a second typeface -- [Dieter Steffmann's][Dieter Steffmann] [Goudy Twenty][] -- which is generally not in the same spirit, but includes a perfect copy of Goudy's interpunct.
 
 
 ## Questions.
