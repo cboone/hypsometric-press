@@ -1,4 +1,4 @@
-# CIL XIV 2104.
+# CIL XIV 2104. <br /> _Roman Capitals, on [the Hypsometric Press.][Hpm Press]_
 
 
 ## The inscription, as it appears.
@@ -61,3 +61,4 @@ Discussion of it also appears in [The Classical Review][], [Zeutschrift für Pap
 [The Classical Review]: http://www.jstor.org/pss/704310 "Go to the JSTOR page for this reference."
 [ZPE]: http://www.jstor.org/pss/20191769 "Go to the JSTOR page for this reference."
 [IRTD]: http://books.google.com/books?id=IT08AAAAMAAJ&pg=PA23#v=onepage&q=Q.%20Varinio%20Q.f.%20Maec.%20Laeviano%20aed.&f=false "Go to the Google Books page for this reference."
+[Hpm Press]: http://github.com/cboone/hpm-press-site
