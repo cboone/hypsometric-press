@@ -17,7 +17,7 @@ MAEC·LAEVIANO·AED
 
 As reproduced by [Frederic Goudy][Goudy], in the front piece of [_The Alphabet and the Elements of Lettering_][Alphabet].
 
-Goudy notes the following, beneath his reproduction of the inscription:
+Mr Goudy notes the following, beneath his reproduction of the inscription:
 
 <pre>
 INSCRIPTION FROM BASE OF STATUE IN A ROMAN PALACE
@@ -25,7 +25,7 @@ SET IN ‘GOUDY OLD STYLE’ CAPITALS
 </pre>
 
 
-### As it was intended to be read.
+### As it was intended to be read, in abbreviated form.
 
 <pre>
 Aurelio
@@ -41,15 +41,29 @@ Maec. Laeviano aed.
 As presented by [Hermann Dessau][Dessau], in [_Inscriptiones Latinae Selectae_, volume 1, page 325, inscription 1475][ILS 1475].
 
 
-## Background information.
+## Notes.
+
+### Citation.
 
 This inscription is identified as CIL XIV 2104 = D 1475.
 
 In other words, [Corpus Inscriptionum Latinarum][], volume XIV -- Inscriptiones Latii veteris Latinae, inscription 2104. And, as mentioned [above][ILS 1475], by Dessau as [ILS][] 1475.
 
+
+### Other references.
+
 Christopher Bruun discusses it briefly in footnote 62 of his paper [Some Comments on the Status of Imperial Freedman][Bruun].
 
 Discussion of it also appears in [The Classical Review][], [Zeutschrift für Papyrologie und Epigraphik][ZPE] (in addition to the Bruun paper already mentioned), and in [_Imperium Romanum Triburim Descriptum._][IRTD]
+
+
+### The type.
+
+In his reproduction, Mr Goudy made use of his own [Goudy Old Style][], which was modeled on Roman capitals.
+
+In my reproduction of Mr Goudy's reproduction, I am primarily using [Sorts Mill Goudy][], by [Barry Schwartz][], which is itself a revival of Goudy Old Style. Generally very accurate and faithful to the original, Sorts Mill Goudy is missing one crucial character: the angular interpunct. Instead, Mr Schwartz has included a middle dot that is of the style of current typefaces.
+
+Thus, I have also made use of a second typeface -- [Dieter Steffmann's][Dieter Steffman] [Goudy Twenty][] -- which is generally not in the same spirit, but includes a perfect copy of Goudy's interpunct.
 
 
 ## Questions.
@@ -61,17 +75,23 @@ The leading of the inscription is questionable. Other comparable Roman inscripti
 
 ### About the meaning.
 
-If Aurelio Aphrodisius was a procurator a rationibus under Augustus, how could he have been both a freedman and an eques?
+If Aurelio Aphrodisius was a _procurator a rationibus_ under Augustus, how could he have been both a freedman and an eques?
 
 
-[ILS 1475]: http://books.google.com/books?id=EWBfAAAAMAAJ&printsec=frontcover#v=onepage&q=1475&f=false "Go to the ILS 1475 entry on Google Books."
 [Alphabet]: http://books.google.com/books?id=yVlQAAAAMAAJ "Read about *The Alphabet and the Elements of Lettering* on Google Books."
-[Corpus Inscriptionum Latinarum]: http://en.wikipedia.org/wiki/Corpus_Inscriptionum_Latinarum "Read about the CIL on Wikipedia."
-[ILS]: http://en.wikipedia.org/wiki/Inscriptiones_Latinae_Selectae "Read about the ILS on Wikipedia."
-[Dessau]: http://en.wikipedia.org/wiki/Hermann_Dessau "Read about Hermann Dessau on Wikipedia."
-[Goudy]: http://en.wikipedia.org/wiki/Frederic_Goudy "Read about Frederic Goudy on Wikipedia."
+[Barry Schwartz]: http://crudfactory.com/ "Go to The Crud Factory, the main website of Barry Schwartz."
 [Bruun]: http://www.uni-koeln.de/phil-fak/ifa/zpe/downloads/1990/082pdf/082271.pdf "Download a PDF of *Sopme Comments on the Status of Imperial Freedman.*"
+[Corpus Inscriptionum Latinarum]: http://en.wikipedia.org/wiki/Corpus_Inscriptionum_Latinarum "Read about the CIL on Wikipedia."
+[Dessau]: http://en.wikipedia.org/wiki/Hermann_Dessau "Read about Hermann Dessau on Wikipedia."
+[Goudy Old Style]: http://en.wikipedia.org/wiki/Goudy_Old_Style "Read about Goudy Old Style on Wikipedia."
+[Goudy]: http://en.wikipedia.org/wiki/Frederic_Goudy "Read about Frederic Goudy on Wikipedia."
+[Hpm Press]: http://github.com/cboone/hpm-press-site
+[Hypsometry]: http://hypsometry.com/ "Go to hypsometry.com."
+[ILS 1475]: http://books.google.com/books?id=EWBfAAAAMAAJ&printsec=frontcover#v=onepage&q=1475&f=false "Go to the ILS 1475 entry on Google Books."
+[ILS]: http://en.wikipedia.org/wiki/Inscriptiones_Latinae_Selectae "Read about the ILS on Wikipedia."
+[IRTD]: http://books.google.com/books?id=IT08AAAAMAAJ&pg=PA23#v=onepage&q=Q.%20Varinio%20Q.f.%20Maec.%20Laeviano%20aed.&f=false "Go to the Google Books page for this reference."
+[Sorts Mill Goudy]: http://code.google.com/p/sortsmill/ "Go to the Google Code project page for Sorts Mill Goudy."
 [The Classical Review]: http://www.jstor.org/pss/704310 "Go to the JSTOR page for this reference."
 [ZPE]: http://www.jstor.org/pss/20191769 "Go to the JSTOR page for this reference."
-[IRTD]: http://books.google.com/books?id=IT08AAAAMAAJ&pg=PA23#v=onepage&q=Q.%20Varinio%20Q.f.%20Maec.%20Laeviano%20aed.&f=false "Go to the Google Books page for this reference."
-[Hpm Press]: http://github.com/cboone/hpm-press-site
+[Goudy Twenty]: http://www.fontsquirrel.com/fonts/GoudyTwenty "Go to the Goudy Twenty page on the Font Squirrel."
+[Dieter Steffmann]: http://www.steffmann.de/ "Go to steffmann.de, the main website of Dieter Steffmann."
