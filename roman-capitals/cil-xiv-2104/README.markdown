@@ -1,4 +1,6 @@
-# CIL XIV 2104. <br /> _A Roman Capital, from [the Hypsometric Press.][Hpm Press]_
+# CIL XIV 2104.
+
+_A Roman Capital, from [the Hypsometric Press.][Hpm Press]_
 
 ## The inscription.
 
