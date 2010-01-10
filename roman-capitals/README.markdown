@@ -12,6 +12,6 @@ This is part of the Hypsometric Press series of investigations into the history 
 
 [Alphabet]: http://books.google.com/books?id=99nZAAAAMAAJ "Read about *The Alphabet and Elements of Lettering* on Google Books."
 [Christopher Boone]: http://hypsometry.com/ "Read more about Christopher Boone's work on hypsometry.com."
-[Github CIL XIV 2104]: http://github.com/cboone/hpm-press-site/tree/master/roman-capitals/cil-xiv-2104/ "Go to the Github page for CIL XIV 2104."
-[Hpm Press]: http://github.com/cboone/hpm-press-site
+[Github CIL XIV 2104]: http://github.com/cboone/hypsometric-press/tree/master/roman-capitals/cil-xiv-2104/ "Go to the Github page for CIL XIV 2104."
+[Hpm Press]: http://github.com/cboone/hypsometric-press
 [Wiki RC]: http://en.wikipedia.org/wiki/Roman_square_capitals

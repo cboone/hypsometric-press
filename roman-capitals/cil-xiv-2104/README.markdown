@@ -95,7 +95,7 @@ This is part of the Hypsometric Press series of investigations into the history 
 [Goudy Old Style]: http://en.wikipedia.org/wiki/Goudy_Old_Style "Read about Goudy Old Style on Wikipedia."
 [Goudy Twenty]: http://www.fontsquirrel.com/fonts/GoudyTwenty "Go to the Goudy Twenty page on the Font Squirrel."
 [Goudy]: http://en.wikipedia.org/wiki/Frederic_Goudy "Read about Frederic Goudy on Wikipedia."
-[Hpm Press]: http://github.com/cboone/hpm-press-site
+[Hpm Press]: http://github.com/cboone/hypsometric-press
 [Hypsometry]: http://hypsometry.com/ "Go to hypsometry.com."
 [ILS 1475]: http://books.google.com/books?id=EWBfAAAAMAAJ&printsec=frontcover#v=onepage&q=1475&f=false "Go to the ILS 1475 entry on Google Books."
 [ILS]: http://en.wikipedia.org/wiki/Inscriptiones_Latinae_Selectae "Read about the ILS on Wikipedia."
